@@ -4,9 +4,10 @@
   "description": "testing with mocha",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Rene",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
